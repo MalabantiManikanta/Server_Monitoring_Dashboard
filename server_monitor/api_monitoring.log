@@ -1,0 +1,12 @@
+2025-03-03 16:48:11,957 - ERROR - Error executing existing_streamlit_code.py: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+2025-03-03 16:48:15,626 - ERROR - Error executing existing_streamlit_code.py: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+2025-03-03 16:51:22,494 - ERROR - Error executing existing_streamlit_code.py: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
+2025-03-03 16:54:10,585 - ERROR - Error executing existing_streamlit_code.py: `set_page_config()` can only be called once per app page, and must be called as the first Streamlit command in your script.
+
+For more information refer to the [docs](https://docs.streamlit.io/develop/api-reference/configuration/st.set_page_config).
