@@ -7,7 +7,7 @@ import psutil
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import datetime
-import sqlite3
+import pysqlite3 as sqlite3
 import logging
 import os
 

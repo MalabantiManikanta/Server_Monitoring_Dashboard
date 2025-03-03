@@ -1,6 +1,6 @@
 streamlit
 pandas
-sqlite3
+pysqlite3
 plotly
 logging
 datetime

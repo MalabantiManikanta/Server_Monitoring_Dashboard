@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import sqlite3
+import pysqlite3 as sqlite3
 import plotly.graph_objects as go
 import logging
 from datetime import datetime, timedelta
