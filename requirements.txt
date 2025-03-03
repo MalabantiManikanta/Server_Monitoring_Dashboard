@@ -4,4 +4,5 @@ pysqlite3-binary
 plotly
 logging
 datetime
-django
+Django
+psutil
