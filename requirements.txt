@@ -6,3 +6,6 @@ logging
 datetime
 Django
 psutil
+psycopg2-binary
+mysql-connector-python
+numpy 
